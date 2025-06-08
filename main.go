@@ -290,7 +290,7 @@ func (g *Game) Layout(outsideWidth, outsideHeight int) (int, int) {
 
 func main() {
 	ebiten.SetWindowSize(screenWidth, screenHeight)
-	ebiten.SetWindowTitle("Sushi Kanji Quiz")
+	ebiten.SetWindowTitle("English Sushi Neta")
 	
 	if err := ebiten.RunGame(NewGame()); err != nil {
 		log.Fatal(err)
