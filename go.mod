@@ -1,4 +1,4 @@
-module github.com/tenkoh/q-ebiten-simple
+module github.com/tenkoh/q-ebiten-simple-game
 
 go 1.24.2
 
